@@ -1,4 +1,4 @@
-#critical (un)making
+# critical (un)making
 ## Table of Contents
 - [Cryptex](#cryptex)
 - [Flower Spinner](#flower-spinner)
